@@ -1,4 +1,4 @@
-# TextSCP
+# Hierarchical Text-Guided Brain Tumor Segmentation via Sub-Region-Aware Prompts
 
 This repository is the official implementation of [Hierarchical Text-Guided Brain Tumor Segmentation via Sub-Region-Aware Prompts](https://arxiv.org/abs/2603.21083).
 
